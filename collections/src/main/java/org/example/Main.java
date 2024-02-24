@@ -1,5 +1,6 @@
 package org.example;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
@@ -21,6 +22,10 @@ public class Main {
         LinkedList<String> list = new LinkedList<>();
         list.add("Yow");
         System.out.println(list);
+
+        ArrayList<String> list2 = new ArrayList<>();
+        list2.add("Yow");
+        list2.get(0);
 
     }
 }
