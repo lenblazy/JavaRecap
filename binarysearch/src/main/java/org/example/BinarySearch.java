@@ -2,8 +2,8 @@ package org.example;
 
 public class BinarySearch {
     public static void main(String[] args) {
-        int[] a = {-10,-1,0,2, 4, 45, 45, 45, 54};
-        int target = 55;
+        int[] a = {2, 3, 5, 9, 14, 16, 18};
+        int target = 9;
         int ans = binarySearch(a, target);
         System.out.println(ans);
     }
