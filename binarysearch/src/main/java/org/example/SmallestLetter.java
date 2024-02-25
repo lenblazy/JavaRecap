@@ -1,5 +1,7 @@
 package org.example;
 
+import java.util.Arrays;
+
 /*
 You are given an array of characters letters that is sorted in non-decreasing order, and a character target. There are at least two different characters in letters.
 
@@ -36,8 +38,12 @@ public class SmallestLetter {
 
     public static void main(String[] args) {
 //        char[] letters = {'c', 'f', 'j'};
-        char[] letters = {'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b'};
-        char target = 'b';
+        int a = 2;
+        int b = 11;
+        int an = a % b;
+        System.out.println(an);
+        char[] letters = {'a', 'a', 'b', 'b', 'b', 'b', 'b', 'b', 'b', 'c', 'd'};
+        char target = 'd';
         char ans = nextGreatestLetter(letters, target);
         System.out.println(ans);
     }
@@ -47,8 +53,7 @@ public class SmallestLetter {
         int end = arr.length - 1;
 
         while (start <= end) {
-//            int mid = (start + end) / 2; // This might cause int overflow in JAVA is numbers are large
-            int mid = start + (end - start) / 2; // Efficient way
+            int mid = start + (end - start) / 2;
 
             if (target < arr[mid]) {
                 end = mid - 1;
@@ -57,7 +62,12 @@ public class SmallestLetter {
             }
         }
 
-        return arr[start % arr.length] ;
+        int idx = start % arr.length;
+        System.out.println("START is "+ start);
+        System.out.println("Arr len is "+ arr.length);
+        System.out.println("Array contains "+ Arrays.toString(arr));
+
+        return arr[idx] ;
 
     }
 
