@@ -31,7 +31,7 @@ Constraints:
 0 <= arr[i] <= 106
 arr is guaranteed to be a mountain array.
  */
-public class MountainArray {
+public class MountainArrayQuiz {
 
     public static void main(String[] args) {
 
