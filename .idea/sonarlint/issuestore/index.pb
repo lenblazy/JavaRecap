@@ -15,3 +15,13 @@ D
 linearsearch/pom.xml,d/2/d2d86104f7b709191103ef621aafa192fd414863
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+`
+0linearsearch/src/main/java/org/example/Main.java,c/b/cb570d5d2ec36e352471165d0321dfce9e96edc0
+q
+Alinearsearch/src/main/java/org/example/evendigits/EvenDigits.java,3/c/3cd756db590d4d1ecdfb00ebda7919edf69becde
+D
+binarysearch/pom.xml,9/2/9261fc8bd95447db5c4d8e0738a3d059745772ec
+h
+8binarysearch/src/main/java/org/example/CeilingOfArr.java,7/6/76d822ac110a0044a9fd605f6d37fcf7317158fb
+w
+Glinearsearch/src/main/java/org/example/maximumwealth/MaximumWealth.java,6/5/65d3409637dad4765ec3bc22bc989eeb0c1e09c9
