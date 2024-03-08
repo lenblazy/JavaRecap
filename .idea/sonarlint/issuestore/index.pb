@@ -25,3 +25,7 @@ h
 8binarysearch/src/main/java/org/example/CeilingOfArr.java,7/6/76d822ac110a0044a9fd605f6d37fcf7317158fb
 w
 Glinearsearch/src/main/java/org/example/maximumwealth/MaximumWealth.java,6/5/65d3409637dad4765ec3bc22bc989eeb0c1e09c9
+j
+:binarysearch/src/main/java/org/example/SmallestLetter.java,2/f/2f958d44365beeefe228d42fcb6e7258df87a3a6
+k
+;binarysearch/src/main/java/org/example/OrderAgnosticBS.java,d/0/d0376b6c5ea06faf31a41378713126c9ea413c12
