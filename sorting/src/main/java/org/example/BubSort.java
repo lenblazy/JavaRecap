@@ -2,6 +2,7 @@ package org.example;
 
 import java.util.Arrays;
 
+// stable sort algorithm
 public class BubSort {
 
     public static void main(String[] args) {
