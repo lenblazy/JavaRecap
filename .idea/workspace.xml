@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bubblesort/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
+    "Application.BubSort.executor": "Run",
     "Application.CeilingOfArr.executor": "Run",
     "Application.EvenDigits.executor": "Run",
     "Application.Main (1).executor": "Run",
@@ -54,13 +58,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RowColMatrix">
-    <configuration name="CeilingOfArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CeilingOfArr" />
-      <module name="binarysearch" />
+  <component name="RunManager" selected="Application.BubSort">
+    <configuration name="BubSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BubSort" />
+      <module name="sorting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.search.*" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubSort" />
         <item itemvalue="Application.RowColMatrix" />
         <item itemvalue="Application.SplitArrSum" />
         <item itemvalue="Application.RotationCount" />
         <item itemvalue="Application.SmallestLetter" />
-        <item itemvalue="Application.CeilingOfArr" />
       </list>
     </recent_temporary>
   </component>
