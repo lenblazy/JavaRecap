@@ -29,3 +29,16 @@ j
 :binarysearch/src/main/java/org/example/SmallestLetter.java,2/f/2f958d44365beeefe228d42fcb6e7258df87a3a6
 k
 ;binarysearch/src/main/java/org/example/OrderAgnosticBS.java,d/0/d0376b6c5ea06faf31a41378713126c9ea413c12
+i
+9binarysearch/src/main/java/org/example/InfiniteArray.java,6/0/6029fc93ce31d55288a45de157b9a431ced3f6a0
+m
+=binarysearch/src/main/java/org/example/MountainArrayQuiz.java,9/7/976c2b1b1f1e2a6661ee3c1fb0690bb63972d9d4
+r
+Bbinarysearch/src/main/java/org/example/FirstLastPositionArray.java,b/c/bc40f35650ff19ffd408046513217bfb7a7b65e5
+x
+Hbinarysearch/src/main/java/org/example/search/SearchInMountainArray.java,e/a/ea9ed8ccdbe59b3616f4de5f56231ecccb9f6f86
+n
+>binarysearch/src/main/java/org/example/SortedRotatedArray.java,f/c/fc646953f92c3e90572bb161f95df352c20a1d40
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
