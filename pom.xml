@@ -14,6 +14,7 @@
         <module>binarysearch</module>
         <module>TwoDAraay</module>
         <module>sorting</module>
+        <module>testsoln</module>
     </modules>
 
     <properties>
