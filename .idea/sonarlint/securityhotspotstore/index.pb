@@ -64,3 +64,5 @@ N
 src/main/resources/message.txt,1/2/12fae4e232c656faacbb6ea608e065ed1fc466d5
 w
 Glinearsearch/src/main/java/org/example/maximumwealth/MaximumWealth.java,6/5/65d3409637dad4765ec3bc22bc989eeb0c1e09c9
+h
+8sorting/src/main/java/org/example/cyclic/CyclicSort.java,7/2/72056ffd744171254de6bfc7e5d0788cf7d06b48
