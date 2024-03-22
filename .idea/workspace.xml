@@ -49,6 +49,7 @@
     "Application.MissingNumber.executor": "Debug",
     "Application.MyString.executor": "Run",
     "Application.Palindrome.executor": "Run",
+    "Application.PatternBuilders.executor": "Run",
     "Application.RotationCount.executor": "Run",
     "Application.RowColMatrix.executor": "Run",
     "Application.SB.executor": "Run",
@@ -73,20 +74,7 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.cyclic.MissingNumber" />
-      <module name="sorting" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.cyclic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PatternBuilders">
     <configuration name="MyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.MyString" />
       <module name="strings" />
@@ -102,6 +90,19 @@
     </configuration>
     <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Palindrome" />
+      <module name="strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternBuilders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PatternBuilders" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternBuilders" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.StrMethods" />
         <item itemvalue="Application.SB" />
         <item itemvalue="Application.MyString" />
-        <item itemvalue="Application.MissingNumber" />
       </list>
     </recent_temporary>
   </component>
