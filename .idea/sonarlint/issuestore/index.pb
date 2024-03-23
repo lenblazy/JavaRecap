@@ -66,3 +66,11 @@ w
 Glinearsearch/src/main/java/org/example/maximumwealth/MaximumWealth.java,6/5/65d3409637dad4765ec3bc22bc989eeb0c1e09c9
 h
 8sorting/src/main/java/org/example/cyclic/CyclicSort.java,7/2/72056ffd744171254de6bfc7e5d0788cf7d06b48
+k
+;sorting/src/main/java/org/example/cyclic/MissingNumber.java,7/f/7fdf430a30e5f2d4346140f8322edf7fccafd0b3
+k
+;sorting/src/main/java/org/example/cyclic/FindDuplicate.java,1/0/10c6f4818fb3873bf1be37bfbf1f775780e793a4
+p
+@sorting/src/main/java/org/example/cyclic/DisappearedNumbers.java,e/f/ef80895875071ee3d329564b201769edcca1e90e
+?
+strings/pom.xml,c/e/ce985aeda932670f29fa8ad26f780b52a830dc02
