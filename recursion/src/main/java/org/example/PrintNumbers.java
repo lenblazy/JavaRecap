@@ -10,7 +10,7 @@ public class PrintNumbers {
             return;
         }
         System.out.println(n);
-        print(n + 1);
+        print(n + 1); //tail recursion since it is the last function call
     }
 
 }

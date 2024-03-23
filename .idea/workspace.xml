@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/recursion/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursion/src/main/java/org/example/PrintNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/src/main/java/org/example/PrintNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,35 +36,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CeilingOfArr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MyString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitArrSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StrMethods.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/Development/personal/java/JavaTute/JavaRecap/JavaRecap/sorting/src/main/resources&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BinarySearch.executor": "Run",
+    "Application.BubSort.executor": "Run",
+    "Application.CeilingOfArr.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
+    "Application.EvenDigits.executor": "Run",
+    "Application.FibonacciNumbers.executor": "Run",
+    "Application.InsertSort.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MissingNumber.executor": "Debug",
+    "Application.MyString.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PatternBuilders.executor": "Run",
+    "Application.RotationCount.executor": "Run",
+    "Application.RowColMatrix.executor": "Run",
+    "Application.SB.executor": "Run",
+    "Application.SelectSort.executor": "Run",
+    "Application.SmallestLetter.executor": "Run",
+    "Application.SplitArrSum.executor": "Run",
+    "Application.StrMethods.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "azul-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Volumes/Development/personal/java/JavaTute/JavaRecap/JavaRecap/sorting/src/main/resources",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sorting/src/main/resources" />
@@ -78,10 +75,10 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PatternBuilders">
-    <configuration name="MyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MyString" />
-      <module name="strings" />
+  <component name="RunManager" selected="Application.FibonacciNumbers">
+    <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FibonacciNumbers" />
+      <module name="recursion" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -146,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciNumbers" />
         <item itemvalue="Application.PatternBuilders" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.StrMethods" />
         <item itemvalue="Application.SB" />
-        <item itemvalue="Application.MyString" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +173,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/recursion/src/main/java/org/example/FibonacciNumbers.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
