@@ -47,6 +47,7 @@
     "Application.EvenDigits.executor": "Run",
     "Application.FibonacciNumbers.executor": "Run",
     "Application.InsertSort.executor": "Run",
+    "Application.MagicNumber.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MissingNumber.executor": "Debug",
@@ -78,7 +79,7 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Operators">
+  <component name="RunManager" selected="Application.MagicNumber">
     <configuration name="Bs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Bs" />
       <module name="recursion" />
@@ -105,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Operators" />
+    <configuration name="MagicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MagicNumber" />
       <module name="recursion" />
       <extension name="coverage">
         <pattern>
@@ -118,9 +119,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Palindrome" />
-      <module name="strings" />
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Operators" />
+      <module name="recursion" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -146,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MagicNumber" />
         <item itemvalue="Application.Operators" />
         <item itemvalue="Application.FibonacciNumbers" />
         <item itemvalue="Application.Bs" />
         <item itemvalue="Application.PatternBuilders" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
