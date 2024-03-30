@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/recursion/src/main/java/org/example/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/src/main/java/org/example/Power.java" afterDir="false" />
-    </list>
+    <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +55,7 @@
     "Application.PatternBuilders.executor": "Run",
     "Application.PowOfTwo.executor": "Run",
     "Application.Power.executor": "Debug",
+    "Application.RangeXOR.executor": "Run",
     "Application.RotationCount.executor": "Run",
     "Application.RowColMatrix.executor": "Run",
     "Application.SB.executor": "Run",
@@ -82,20 +81,7 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SetBits">
-    <configuration name="MagicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.MagicNumber" />
-      <module name="recursion" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RangeXOR">
     <configuration name="NoOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.NoOfDigits" />
       <module name="recursion" />
@@ -135,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RangeXOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RangeXOR" />
+      <module name="recursion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.SetBits" />
       <module name="recursion" />
@@ -150,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RangeXOR" />
         <item itemvalue="Application.SetBits" />
         <item itemvalue="Application.Power" />
         <item itemvalue="Application.PowOfTwo" />
         <item itemvalue="Application.NoOfDigits" />
-        <item itemvalue="Application.MagicNumber" />
       </list>
     </recent_temporary>
   </component>
