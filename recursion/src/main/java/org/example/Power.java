@@ -7,6 +7,7 @@ public class Power {
         int power = 6;
 
         int ans = 1;
+        Math.pow(base, power);
 
         while (power > 0) {
             if ((power & 1) == 1) {
