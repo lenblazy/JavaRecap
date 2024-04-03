@@ -9,6 +9,8 @@ public class RangeXOR {
 
         int ans = xor(b) ^ xor(a - 1);
         System.out.println(ans);
+
+
     }
 
     //this gives XOR from 0 till 1
