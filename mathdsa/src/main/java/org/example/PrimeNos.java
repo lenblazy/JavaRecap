@@ -1,13 +1,14 @@
 package org.example;
 
+// T(C) = O(n * sqrt(n))
 public class PrimeNos {
 
     public static void main(String[] args) {
-        int n = 20;
-        for (int i = 1; i <= n; i++) {
+        int n = 40;
+        for (int i = 2; i <= n; i++) {
             System.out.println(i + " " + isPrime(i));
         }
-    }
+    }// T(C) = O((n))
 
     static boolean isPrime(int n) {
         if (n <= 1) {
@@ -24,4 +25,4 @@ public class PrimeNos {
         return true;
     }
 
-}
+}// T(C) = O(sqrt(n))
