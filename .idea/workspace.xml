@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/PrimeNos.java" beforeDir="false" afterPath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/PrimeNos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/SeivePrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/SeivePrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/BinarySearchSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/BinarySearchSqrt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BinarySearch.executor": "Run",
+    "Application.BinarySearchSqrt.executor": "Run",
     "Application.Bs.executor": "Run",
     "Application.BubSort.executor": "Run",
     "Application.CeilingOfArr.executor": "Run",
@@ -87,10 +86,10 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SeivePrime">
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Power" />
-      <module name="recursion" />
+  <component name="RunManager" selected="Application.BinarySearchSqrt">
+    <configuration name="BinarySearchSqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BinarySearchSqrt" />
+      <module name="mathdsa" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -155,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchSqrt" />
         <item itemvalue="Application.SeivePrime" />
         <item itemvalue="Application.PrimeNos" />
         <item itemvalue="Application.RangeXOR" />
         <item itemvalue="Application.SetBits" />
-        <item itemvalue="Application.Power" />
       </list>
     </recent_temporary>
   </component>
