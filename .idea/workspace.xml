@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="" />
+    <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/Factors.java" beforeDir="false" afterPath="$PROJECT_DIR$/mathdsa/src/main/java/org/example/Factors.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +46,7 @@
     "Application.CeilingOfArr.executor": "Run",
     "Application.CyclicSort.executor": "Run",
     "Application.EvenDigits.executor": "Run",
+    "Application.Factors.executor": "Run",
     "Application.FibonacciNumbers.executor": "Run",
     "Application.InsertSort.executor": "Run",
     "Application.MagicNumber.executor": "Run",
