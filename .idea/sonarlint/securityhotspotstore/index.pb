@@ -100,3 +100,11 @@ e
 5recursion/src/main/java/org/example/PrintNumbers.java,c/5/c5c78e1a6bceacd52b728d6e105355c8007f4d76
 [
 +recursion/src/main/java/org/example/Bs.java,5/3/53c95352daef0b4322a9a1ab2a07bd29b3cf239e
+a
+1recursion/src/main/java/org/example/PowOfTwo.java,5/3/5324ed065810d7a0aba2dd273e37d09705c9eb66
+^
+.recursion/src/main/java/org/example/Power.java,8/7/87c90a81567ea94804a6919358342e6d6f84157f
+d
+4recursion/src/main/java/org/example/MagicNumber.java,d/7/d78793a8b3ce9d6a3f666061a167f454632abf1d
+c
+3recursion/src/main/java/org/example/NoOfDigits.java,e/0/e0defcca3c2f878d70d47a24fbaf0b03a65ec4b7
