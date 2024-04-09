@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/CountZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/CountZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/NumOfSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/NumOfSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
