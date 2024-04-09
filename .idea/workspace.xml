@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/recursionlvl1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/recursionlvl1/src/main/java/org/example/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +45,7 @@
     "Application.CeilingOfArr.executor": "Run",
     "Application.CyclicSort.executor": "Run",
     "Application.EvenDigits.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.Factors.executor": "Run",
     "Application.FibonacciNumbers.executor": "Run",
     "Application.GCD_LCM.executor": "Run",
@@ -95,10 +91,10 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NTo1">
-    <configuration name="BinarySearchSqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BinarySearchSqrt" />
-      <module name="mathdsa" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Factorial" />
+      <module name="recursionlvl1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -163,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.NTo1" />
         <item itemvalue="Application.GCD_LCM" />
         <item itemvalue="Application.Factors" />
         <item itemvalue="Application.NewtonSqrt" />
-        <item itemvalue="Application.BinarySearchSqrt" />
       </list>
     </recent_temporary>
   </component>
