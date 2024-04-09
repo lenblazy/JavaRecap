@@ -94,7 +94,7 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseNum">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Factorial" />
       <module name="recursionlvl1" />
@@ -108,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NTo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NTo1" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Palindrome" />
       <module name="recursionlvl1" />
       <extension name="coverage">
         <pattern>
@@ -162,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.ReverseNum" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.NTo1" />
       </list>
     </recent_temporary>
   </component>
