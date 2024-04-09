@@ -108,3 +108,9 @@ d
 4recursion/src/main/java/org/example/MagicNumber.java,d/7/d78793a8b3ce9d6a3f666061a167f454632abf1d
 c
 3recursion/src/main/java/org/example/NoOfDigits.java,e/0/e0defcca3c2f878d70d47a24fbaf0b03a65ec4b7
+b
+2recursion/src/main/java/org/example/FlipImage.java,3/f/3fb05da6add464a707faa42949233dc4f99be84a
+`
+0recursion/src/main/java/org/example/SetBits.java,f/9/f97c5256eba126bf6d2b79d2dbf49df5e6a24e08
+a
+1recursion/src/main/java/org/example/RangeXOR.java,f/0/f0b2afc9b1d708d3dab17e0f4437eea568479b11
