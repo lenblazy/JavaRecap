@@ -19,6 +19,7 @@
         <module>recursion</module>
         <module>mathdsa</module>
         <module>recursionlvl1</module>
+        <module>recursionarr</module>
     </modules>
 
     <properties>
