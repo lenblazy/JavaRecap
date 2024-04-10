@@ -20,6 +20,7 @@
         <module>mathdsa</module>
         <module>recursionlvl1</module>
         <module>recursionarr</module>
+        <module>recursionarrays</module>
     </modules>
 
     <properties>
