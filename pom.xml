@@ -21,6 +21,7 @@
         <module>recursionlvl1</module>
         <module>recursionarr</module>
         <module>recursionarrays</module>
+        <module>recursionpatterns</module>
     </modules>
 
     <properties>
