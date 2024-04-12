@@ -132,3 +132,9 @@ E
 recursionlvl1/pom.xml,3/1/31fc75e001db42bc459be92b6dd66583c7986a96
 a
 1recursionlvl1/src/main/java/org/example/NTo1.java,2/5/25876111bc62bba3774186cd05863740ecf440e3
+h
+8recursionlvl1/src/main/java/org/example/SumOfDigits.java,2/9/29e57402cf477e23b7314db01a42c67f921daf6f
+`
+0recursionlvl1/src/main/java/org/example/Sum.java,b/b/bbbb85160f62a1d8e6e4564a72f523f6e8a3a76c
+f
+6recursionlvl1/src/main/java/org/example/Factorial.java,a/6/a6a3328732a7e7c8002a05efbff10defef123481
