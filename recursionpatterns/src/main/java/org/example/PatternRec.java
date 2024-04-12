@@ -1,9 +1,14 @@
 package org.example;
 
+import java.util.Arrays;
+
 public class PatternRec {
 
     public static void main(String[] args) {
-        triangle(4, 0);
+//        triangle(4, 0);
+        int[] arr = {5,6,7,8,9,1,2,3};
+        bubSort(arr, arr.length - 1, 0);
+        System.out.println(Arrays.toString(arr));
     }
 
     static void invTriangle(int r, int c) {
@@ -31,6 +36,24 @@ public class PatternRec {
         } else {
             triangle(r - 1, 0);
             System.out.println();
+        }
+    }
+
+    static void bubSort(int[] arr, int r, int c) {
+        if (r == 0) {
+            return;
+        }
+
+        if (c < r) {
+            if (arr[c] > arr[c + 1]) {
+                //swap
+                int temp = arr[c];
+                arr[c] = arr[c + 1];
+                arr[c + 1] = temp;
+            }
+            bubSort(arr, r, c + 1);
+        } else {
+            bubSort(arr, r - 1, 0);
         }
     }
 
