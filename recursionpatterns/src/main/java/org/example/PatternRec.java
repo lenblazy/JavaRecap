@@ -7,7 +7,8 @@ public class PatternRec {
     public static void main(String[] args) {
 //        triangle(4, 0);
         int[] arr = {5,6,7,8,9,1,2,3};
-        bubSort(arr, arr.length - 1, 0);
+//        bubSort(arr, arr.length - 1, 0);
+        selSort(arr, arr.length, 0, 0);
         System.out.println(Arrays.toString(arr));
     }
 
@@ -54,6 +55,27 @@ public class PatternRec {
             bubSort(arr, r, c + 1);
         } else {
             bubSort(arr, r - 1, 0);
+        }
+    }
+
+    static void selSort(int[] arr, int r, int c, int max) {
+        if (r == 0) {
+            return;
+        }
+
+        if (c < r) {
+            if (arr[c] > arr[max]) {
+                selSort(arr, r, c + 1, c);
+            }else{
+                selSort(arr, r, c + 1, max);
+            }
+
+        } else {
+            //swap
+            int temp = arr[max];
+            arr[max] = arr[r - 1];
+            arr[r - 1] = temp;
+            selSort(arr, r - 1, 0, 0);
         }
     }
 
