@@ -22,6 +22,7 @@
         <module>recursionarr</module>
         <module>recursionarrays</module>
         <module>recursionpatterns</module>
+        <module>mergesort</module>
     </modules>
 
     <properties>

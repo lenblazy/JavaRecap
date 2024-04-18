@@ -138,3 +138,13 @@ h
 0recursionlvl1/src/main/java/org/example/Sum.java,b/b/bbbb85160f62a1d8e6e4564a72f523f6e8a3a76c
 f
 6recursionlvl1/src/main/java/org/example/Factorial.java,a/6/a6a3328732a7e7c8002a05efbff10defef123481
+g
+7recursionlvl1/src/main/java/org/example/Palindrome.java,7/8/78dddba413c83ff5af4a667545e8d6287afb2602
+g
+7recursionlvl1/src/main/java/org/example/ReverseNum.java,c/b/cb0a48332e7a988bba23eea75c931b8fe26f0935
+i
+9recursionlvl1/src/main/java/org/example/DigitProduct.java,8/2/82b605e3f7c69e092c925e3c5c64680d5e402702
+g
+7recursionlvl1/src/main/java/org/example/CountZeros.java,5/f/5fa8455bc6f562d67500201ec111e16e73fe43e8
+g
+7recursionlvl1/src/main/java/org/example/NumOfSteps.java,9/2/929272d013645f34efb6c3e02501b7be0cff736f
