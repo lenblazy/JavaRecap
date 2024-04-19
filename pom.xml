@@ -24,6 +24,7 @@
         <module>recursionpatterns</module>
         <module>mergesort</module>
         <module>quicksort</module>
+        <module>stringrec</module>
     </modules>
 
     <properties>

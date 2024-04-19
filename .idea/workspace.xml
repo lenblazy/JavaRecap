@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/quicksort/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stringrec/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quicksort/src/main/java/org/example/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/quicksort/src/main/java/org/example/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +85,7 @@
     "Application.SmallestLetter.executor": "Run",
     "Application.SplitArrSum.executor": "Run",
     "Application.StrMethods.executor": "Run",
+    "Application.Stream.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -111,22 +111,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort">
+  <component name="RunManager" selected="Application.Stream">
     <configuration name="BSRec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BSRec" />
-      <module name="recursionarrays" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckArrSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CheckArrSorted" />
       <module name="recursionarrays" />
       <extension name="coverage">
         <pattern>
@@ -177,13 +164,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Stream" />
+      <module name="stringrec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stream" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.PatternRec" />
         <item itemvalue="Application.BSRec" />
-        <item itemvalue="Application.CheckArrSorted" />
       </list>
     </recent_temporary>
   </component>
