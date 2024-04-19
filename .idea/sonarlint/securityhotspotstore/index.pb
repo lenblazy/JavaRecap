@@ -148,3 +148,9 @@ g
 7recursionlvl1/src/main/java/org/example/CountZeros.java,5/f/5fa8455bc6f562d67500201ec111e16e73fe43e8
 g
 7recursionlvl1/src/main/java/org/example/NumOfSteps.java,9/2/929272d013645f34efb6c3e02501b7be0cff736f
+`
+0recursionarr/src/main/java/org/example/Main.java,b/1/b19f8405890a9487649098fd8d79aa8240e39d88
+G
+recursionarrays/pom.xml,6/2/628e7bcfbae69dab6041bcbdacf2964a24937833
+D
+recursionarr/pom.xml,a/3/a3d17a51ce1612ecda9c9f49c0605d5ab64bfe03

@@ -23,6 +23,7 @@
         <module>recursionarrays</module>
         <module>recursionpatterns</module>
         <module>mergesort</module>
+        <module>quicksort</module>
     </modules>
 
     <properties>
