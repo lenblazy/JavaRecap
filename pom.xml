@@ -25,6 +25,7 @@
         <module>mergesort</module>
         <module>quicksort</module>
         <module>stringrec</module>
+        <module>permutations</module>
     </modules>
 
     <properties>

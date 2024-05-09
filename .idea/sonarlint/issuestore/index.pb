@@ -152,3 +152,11 @@ G
 recursionarrays/pom.xml,6/2/628e7bcfbae69dab6041bcbdacf2964a24937833
 D
 recursionarr/pom.xml,a/3/a3d17a51ce1612ecda9c9f49c0605d5ab64bfe03
+m
+=recursionarrays/src/main/java/org/example/CheckArrSorted.java,3/5/352e6cb61e8f973db784694fe76c75289a163894
+n
+>recursionarrays/src/main/java/org/example/LinearSearchRec.java,9/3/93c224db3a31506a87863027f31ddaa775b9752b
+d
+4recursionarrays/src/main/java/org/example/BSRec.java,8/3/83263ffdd9b43a8fd7aa851b15221e2a22a3d765
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
