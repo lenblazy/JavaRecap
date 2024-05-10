@@ -160,3 +160,11 @@ d
 4recursionarrays/src/main/java/org/example/BSRec.java,8/3/83263ffdd9b43a8fd7aa851b15221e2a22a3d765
 7
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+k
+;recursionpatterns/src/main/java/org/example/PatternRec.java,8/5/853c5abd78857bef251469f1ea92b86573b8d98d
+b
+2mergesort/src/main/java/org/example/MergeSort.java,3/3/332d7a68a9bdc03c099133705ca2d3a410efe11e
+I
+recursionpatterns/pom.xml,6/6/66c89769fb46947d1610d1b9d71bbaf2c1f54228
+A
+mergesort/pom.xml,7/8/78001ba13f26692da0b9b17c1e25abf7bdf96259

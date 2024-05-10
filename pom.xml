@@ -26,6 +26,7 @@
         <module>quicksort</module>
         <module>stringrec</module>
         <module>permutations</module>
+        <module>maze</module>
     </modules>
 
     <properties>
