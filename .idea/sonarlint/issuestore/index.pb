@@ -168,3 +168,9 @@ I
 recursionpatterns/pom.xml,6/6/66c89769fb46947d1610d1b9d71bbaf2c1f54228
 A
 mergesort/pom.xml,7/8/78001ba13f26692da0b9b17c1e25abf7bdf96259
+b
+2quicksort/src/main/java/org/example/QuickSort.java,1/0/10e1b9f4fdf445ea57652d991b431fd2211d79e3
+A
+stringrec/pom.xml,6/5/651de70399759fee9b7e43690ffc6d4a9c0679eb
+A
+quicksort/pom.xml,6/a/6a8d11952203b5d7f3bd001b91c393206c2191d5
