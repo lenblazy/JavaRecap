@@ -28,6 +28,7 @@
         <module>permutations</module>
         <module>maze</module>
         <module>backtracking</module>
+        <module>oop</module>
     </modules>
 
     <properties>

@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/oop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,73 +41,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AllPaths.executor": "Run",
-    "Application.Ascii.executor": "Run",
-    "Application.BSRec.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
-    "Application.BinarySearchSqrt.executor": "Run",
-    "Application.Bs.executor": "Run",
-    "Application.BubSort.executor": "Run",
-    "Application.CeilingOfArr.executor": "Run",
-    "Application.CheckArrSorted.executor": "Run",
-    "Application.CountZeros.executor": "Run",
-    "Application.CyclicSort.executor": "Run",
-    "Application.Dice.executor": "Run",
-    "Application.EvenDigits.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Factors.executor": "Run",
-    "Application.FibonacciNumbers.executor": "Run",
-    "Application.GCD_LCM.executor": "Run",
-    "Application.InsertSort.executor": "Run",
-    "Application.LetterCombinations.executor": "Run",
-    "Application.MagicNumber.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Maze.executor": "Run",
-    "Application.MergeSort.executor": "Run",
-    "Application.MissingNumber.executor": "Debug",
-    "Application.MyString.executor": "Run",
-    "Application.NKnights.executor": "Run",
-    "Application.NQueens.executor": "Run",
-    "Application.NTo1.executor": "Run",
-    "Application.NewtonSqrt.executor": "Run",
-    "Application.NoOfDigits.executor": "Run",
-    "Application.Operators.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PatternBuilders.executor": "Run",
-    "Application.PatternRec.executor": "Run",
-    "Application.PowOfTwo.executor": "Run",
-    "Application.Power.executor": "Debug",
-    "Application.PrimeNos.executor": "Run",
-    "Application.QuickSort.executor": "Run",
-    "Application.RangeXOR.executor": "Run",
-    "Application.ReverseNum.executor": "Run",
-    "Application.RotationCount.executor": "Run",
-    "Application.RowColMatrix.executor": "Run",
-    "Application.SB.executor": "Run",
-    "Application.SeivePrime.executor": "Run",
-    "Application.SelectSort.executor": "Run",
-    "Application.SetBits.executor": "Run",
-    "Application.SmallestLetter.executor": "Run",
-    "Application.SplitArrSum.executor": "Run",
-    "Application.StrMethods.executor": "Run",
-    "Application.Stream.executor": "Run",
-    "Application.SubSeq.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.SumOfDigits.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "azul-17",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Volumes/Development/personal/java/JavaTute/JavaRecap/JavaRecap/sorting/src/main/resources",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "promo.profiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AllPaths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ascii.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BSRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearchSqrt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeilingOfArr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckArrSorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCD_LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InsertSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LetterCombinations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MagicNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MyString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NKnights.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NQueens.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NTo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewtonSqrt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NoOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternBuilders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternRec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PowOfTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PrimeNos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RangeXOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeivePrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SelectSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetBits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SplitArrSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StrMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSeq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sudoku.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Volumes/Development/personal/java/JavaTute/JavaRecap/JavaRecap/sorting/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;promo.profiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/sorting/src/main/resources" />
@@ -115,7 +121,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sudoku">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AllPaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.AllPaths" />
       <module name="maze" />
@@ -129,9 +135,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Maze" />
-      <module name="maze" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="oop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -183,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Sudoku" />
         <item itemvalue="Application.NKnights" />
         <item itemvalue="Application.NQueens" />
         <item itemvalue="Application.AllPaths" />
-        <item itemvalue="Application.Maze" />
       </list>
     </recent_temporary>
   </component>
