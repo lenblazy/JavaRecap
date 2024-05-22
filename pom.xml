@@ -29,6 +29,7 @@
         <module>maze</module>
         <module>backtracking</module>
         <module>oop</module>
+        <module>generics</module>
     </modules>
 
     <properties>
