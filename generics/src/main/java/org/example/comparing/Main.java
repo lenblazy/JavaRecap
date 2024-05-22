@@ -1,6 +1,7 @@
 package org.example.comparing;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class Main {
 
@@ -16,6 +17,15 @@ public class Main {
         System.out.println(Arrays.toString(students));
         Arrays.sort(students);
         System.out.println(Arrays.toString(students));
+
+//        Arrays.sort(students, new Comparator<Student>() {
+//            @Override
+//            public int compare(Student student, Student t1) {
+//                return -(int) (student.marks - t1.marks);
+//            }
+//        });
+
+        Arrays.sort(students, (student, t1) -> -(int) (student.marks - t1.marks));
 
         if (queen.compareTo(leni) < 0) {
             System.out.println(queen.compareTo(leni));
