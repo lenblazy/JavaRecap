@@ -9,8 +9,6 @@ S
 #src/main/java/org/example/Main.java,0/b/0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 C
 collections/pom.xml,7/0/70de5a36ec6de14bf188f0d2ecedadc0dd486901
-_
-/collections/src/main/java/org/example/Main.java,5/3/537f809c84f2cea45f17a027c0234b89286d4653
 D
 linearsearch/pom.xml,d/2/d2d86104f7b709191103ef621aafa192fd414863
 `
@@ -254,3 +252,15 @@ a
 1oop/src/main/java/org/example/interfaces/Car.java,e/4/e462a0add1ec2d3b4a0b65bf940e39edc4b35d29
 k
 ;oop/src/main/java/org/example/interfaces/defaultimpl/A.java,2/7/27f37e9e8572aa88351fd0f4885519455dba2f65
+f
+6oop/src/main/java/org/example/interfaces/nested/A.java,5/4/54a58e801869149ccebea0e929055eaffc78e5d4
+n
+>oop/src/main/java/org/example/interfaces/defaultimpl/Main.java,7/a/7a8334cf212374fed472b7bdb27d3df69fcd6958
+k
+;oop/src/main/java/org/example/interfaces/defaultimpl/B.java,3/c/3c9b4d15b8cb911cd441fa05cc2683a84c09d369
+@
+generics/pom.xml,1/6/16045388a96820d738d77854c5271361b4f76fc5
+g
+7generics/src/main/java/org/example/CustomArrayList.java,5/5/555ba02d9272e4b1492b23adad01e842f8c20725
+j
+:generics/src/main/java/org/example/CustomGenArrayList.java,f/1/f1fcd8e7ef2f264b0c6d2a3905f487b89d76e78c

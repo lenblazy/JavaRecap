@@ -1,9 +1,6 @@
 package org.example;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -26,6 +23,8 @@ public class Main {
         ArrayList<String> list2 = new ArrayList<>();
         list2.add("Yow");
         list2.get(0);
+
+        Stack<Integer> stack = new Stack<>();
 
     }
 }

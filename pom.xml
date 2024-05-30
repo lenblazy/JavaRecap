@@ -30,6 +30,7 @@
         <module>backtracking</module>
         <module>oop</module>
         <module>generics</module>
+        <module>enumsexample</module>
     </modules>
 
     <properties>
