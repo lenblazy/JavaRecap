@@ -260,7 +260,3 @@ n
 >oop/src/main/java/org/example/interfaces/defaultimpl/Main.java,7/a/7a8334cf212374fed472b7bdb27d3df69fcd6958
 k
 ;oop/src/main/java/org/example/interfaces/defaultimpl/B.java,3/c/3c9b4d15b8cb911cd441fa05cc2683a84c09d369
-g
-7generics/src/main/java/org/example/CustomArrayList.java,5/5/555ba02d9272e4b1492b23adad01e842f8c20725
-j
-:generics/src/main/java/org/example/CustomGenArrayList.java,f/1/f1fcd8e7ef2f264b0c6d2a3905f487b89d76e78c

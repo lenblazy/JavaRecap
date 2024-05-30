@@ -31,6 +31,7 @@
         <module>oop</module>
         <module>generics</module>
         <module>enumsexample</module>
+        <module>linkedlists</module>
     </modules>
 
     <properties>
