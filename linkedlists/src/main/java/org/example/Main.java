@@ -10,6 +10,7 @@ public class Main {
         list.insertLast(99);
         list.insert(50, 2);
         list.display();
+        System.out.println(list.deleteFirst());
         list.display();
     }
 }
