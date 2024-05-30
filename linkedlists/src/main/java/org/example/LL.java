@@ -33,6 +33,29 @@ public class LL {
         size++;
     }
 
+    public void insert(int val, int idx) {
+        if (idx == 0) {
+            insertFirst(val);
+            return;
+        }
+
+        if (idx == size) {
+            insertLast(val);
+            return;
+        }
+
+        Node temp = head;
+        for(int i = 1; i < idx; i++){
+            temp = temp.next;
+        }
+
+        Node newNode = new Node(val, temp.next);
+        temp.next = newNode;
+        size++;
+
+    }
+
+
     public void display() {
         Node temp = head;
         while (temp!= null) {
