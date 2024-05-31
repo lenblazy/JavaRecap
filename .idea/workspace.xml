@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/DLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/DLL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

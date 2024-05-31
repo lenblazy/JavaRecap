@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        LL list = new LL();
+      /*  LL list = new LL();
         list.insertFirst(3);
         list.insertFirst(5);
         list.insertFirst(6);
@@ -15,6 +15,12 @@ public class Main {
         System.out.println(list.deleteLast());
         list.display();
         System.out.println(list.delete(2));
+        list.display();*/
+        DLL list = new DLL();
+        list.insertFirst(3);
+        list.insertFirst(5);
+        list.insertFirst(6);
+        list.insertFirst(2);
         list.display();
     }
 }
