@@ -55,6 +55,26 @@ public class LL {
 
     }
 
+    public Node get(int idx) {
+        Node temp = head;
+        for(int i = 0; i < idx; i++){
+            temp = temp.next;
+        }
+        return temp;
+    }
+
+    public int deleteLast() {
+        if (size <= 1){
+            return deleteFirst();
+        }
+
+        Node secondLast = get(size - 2);
+        int val = tail.value;
+        tail = secondLast;
+        tail.next = null;
+        return val;
+    }
+
     public int deleteFirst(){
         int val = head.value;
         head = head.next;
@@ -65,7 +85,6 @@ public class LL {
         return val;
 
     }
-
 
     public void display() {
         Node temp = head;
