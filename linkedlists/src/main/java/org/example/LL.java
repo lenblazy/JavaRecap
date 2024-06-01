@@ -153,4 +153,33 @@ public class LL {
         }
     }
 
+    // questions
+    public void removeDuplicates(){
+        Node node = head;
+
+        while (node.next != null){
+            if (node.value == node.next.value){
+                node.next = node.next.next;
+                size--;
+            } else{
+                node = node.next;
+            }
+        }
+        tail = node;
+        tail.next = null;
+    }
+
+    public static void main(String[] args) {
+        LL ll = new LL();
+        ll.insertLast(1);
+        ll.insertLast(1);
+        ll.insertLast(2);
+        ll.insertLast(3);
+        ll.insertLast(3);
+        ll.insertLast(4);
+        ll.display();
+        ll.removeDuplicates();
+        ll.display();
+    }
+
 }

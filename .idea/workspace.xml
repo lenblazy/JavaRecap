@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/LL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +125,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.Main">
+  <component name="RunManager" selected="Application.LL">
     <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Basic" />
       <module name="enumsexample" />
@@ -141,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomGenArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CustomGenArrayList" />
-      <module name="generics" />
+    <configuration name="LL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.LL" />
+      <module name="linkedlists" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Main" />
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LL" />
         <item itemvalue="Application.org.example.Main" />
         <item itemvalue="Application.Basic" />
         <item itemvalue="Application.LambdaFunctions" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CustomGenArrayList" />
       </list>
     </recent_temporary>
   </component>
