@@ -55,6 +55,21 @@ public class LL {
 
     }
 
+    public void insertRec(int val, int idx){
+        head = insertRec(val, idx, head);
+    }
+
+    private Node insertRec(int val, int index, Node node){
+        if (index == 0){
+            Node temp = new Node(val, node);
+            size++;
+            return temp;
+        }
+
+        node.next = insertRec(val, index- 1, node.next);
+        return node;
+    }
+
     public Node get(int idx) {
         Node temp = head;
         for(int i = 0; i < idx; i++){
