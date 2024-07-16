@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/stacksnqueues/src/CustomStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/stacksnqueues/src/CustomStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stacksnqueues/src/DynamicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/stacksnqueues/src/DynamicStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stacksnqueues/CustomStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stacksnqueues/CustomStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacksnqueues/src/CircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/stacksnqueues/src/CircularQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +88,7 @@
     "Application.PowOfTwo.executor": "Run",
     "Application.Power.executor": "Debug",
     "Application.PrimeNos.executor": "Run",
+    "Application.QueueMain.executor": "Run",
     "Application.QuickSort.executor": "Run",
     "Application.RangeXOR.executor": "Run",
     "Application.ReverseNum.executor": "Run",
@@ -134,23 +136,11 @@
       <recent name="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackMain">
-    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Basic" />
-      <module name="enumsexample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.Main" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QueueMain">
     <configuration name="InbuiltExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InbuiltExamples" />
       <module name="stacksnqueues" />
@@ -167,6 +157,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QueueMain" />
+      <module name="stacksnqueues" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -193,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueMain" />
         <item itemvalue="Application.StackMain" />
         <item itemvalue="Application.InbuiltExamples" />
         <item itemvalue="Application.LL" />
         <item itemvalue="Application.org.example.Main" />
-        <item itemvalue="Application.Basic" />
       </list>
     </recent_temporary>
   </component>
