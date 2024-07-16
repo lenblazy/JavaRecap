@@ -11,9 +11,10 @@ public class CustomStack {
         data = new int[size];
     }
 
-    public boolean push(int value) throws StackException {
+    public boolean push(int value)  {
         if (isFull()) {
-            throw new StackException("Stack is full. Cannot push " + value);
+            System.out.println("Stack is full. Cannot push " + value);
+            return false;
         }
         ptr++;
         data[ptr] = value;
@@ -35,11 +36,11 @@ public class CustomStack {
         return data[ptr];
     }
 
-    private boolean isFull() {
+    protected boolean isFull() {
         return ptr == data.length - 1;
     }
 
-    private boolean isEmpty() {
+    protected boolean isEmpty() {
         return ptr == -1;
     }
 
