@@ -169,17 +169,63 @@ public class LL {
         tail.next = null;
     }
 
+    public static LL merge(LL first, LL second){
+        Node f = first.head;
+        Node s = second.head;
+
+        LL ans = new LL();
+
+        while (f != null && s != null){
+            if (f.value < s.value){
+                ans.insertLast(f.value);
+                f = f.next;
+            }else{
+                ans.insertLast(s.value);
+                s = s.next;
+            }
+        }
+
+        while (f != null){
+            ans.insertLast(f.value);
+            f = f.next;
+        }
+
+        while (s != null){
+            ans.insertLast(s.value);
+            s = s.next;
+        }
+
+        return ans;
+    }
+
     public static void main(String[] args) {
-        LL ll = new LL();
-        ll.insertLast(1);
-        ll.insertLast(1);
-        ll.insertLast(2);
-        ll.insertLast(3);
-        ll.insertLast(3);
-        ll.insertLast(4);
-        ll.display();
-        ll.removeDuplicates();
-        ll.display();
+//        LL ll = new LL();
+//        ll.insertLast(1);
+//        ll.insertLast(1);
+//        ll.insertLast(2);
+//        ll.insertLast(3);
+//        ll.insertLast(3);
+//        ll.insertLast(4);
+//        ll.display();
+//        ll.removeDuplicates();
+//        ll.display();
+
+        LL first = new LL();
+        LL seconds = new LL();
+
+        first.insertLast(1);
+        first.insertLast(3);
+        first.insertLast(5);
+
+
+        seconds.insertLast(1);
+        seconds.insertLast(2);
+        seconds.insertLast(9);
+        seconds.insertLast(14);
+
+        LL ans = LL.merge(first, seconds);
+        ans.display();
+
     }
 
 }

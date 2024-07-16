@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkedlists/src/main/java/org/example/LL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodyActiveAccount">
+    <option name="activeAccountId" value="VXNlcjoyODM0Mzg=" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,80 +42,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AllPaths.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ascii.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BSRec.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearchSqrt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BubSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CeilingOfArr.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CheckArrSorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CustomArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CustomGenArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CyclicSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GCD_LCM.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InsertSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdaFunctions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LetterCombinations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MagicNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maze.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MyString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NKnights.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NQueens.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NTo1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewtonSqrt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NoOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ObjectDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternBuilders.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PatternRec.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PowOfTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Power.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.PrimeNos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RangeXOR.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseNum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotationCount.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RowColMatrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SeivePrime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SetBits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestLetter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SplitArrSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StrMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stream.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SubSeq.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sudoku.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;azul-17&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/Development/personal/java/JavaTute/JavaRecap/JavaRecap/sorting/src/main/resources&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;promo.profiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllPaths.executor": "Run",
+    "Application.Ascii.executor": "Run",
+    "Application.BSRec.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BinarySearchSqrt.executor": "Run",
+    "Application.Bs.executor": "Run",
+    "Application.BubSort.executor": "Run",
+    "Application.CeilingOfArr.executor": "Run",
+    "Application.CheckArrSorted.executor": "Run",
+    "Application.CountZeros.executor": "Run",
+    "Application.CustomArrayList.executor": "Run",
+    "Application.CustomGenArrayList.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
+    "Application.Dice.executor": "Run",
+    "Application.EvenDigits.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Factors.executor": "Run",
+    "Application.FibonacciNumbers.executor": "Run",
+    "Application.GCD_LCM.executor": "Run",
+    "Application.InsertSort.executor": "Run",
+    "Application.LL.executor": "Run",
+    "Application.LambdaFunctions.executor": "Run",
+    "Application.LetterCombinations.executor": "Run",
+    "Application.MagicNumber.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Maze.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MissingNumber.executor": "Debug",
+    "Application.MyString.executor": "Run",
+    "Application.NKnights.executor": "Run",
+    "Application.NQueens.executor": "Run",
+    "Application.NTo1.executor": "Run",
+    "Application.NewtonSqrt.executor": "Run",
+    "Application.NoOfDigits.executor": "Run",
+    "Application.ObjectDemo.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PatternBuilders.executor": "Run",
+    "Application.PatternRec.executor": "Run",
+    "Application.PowOfTwo.executor": "Run",
+    "Application.Power.executor": "Debug",
+    "Application.PrimeNos.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.RangeXOR.executor": "Run",
+    "Application.ReverseNum.executor": "Run",
+    "Application.RotationCount.executor": "Run",
+    "Application.RowColMatrix.executor": "Run",
+    "Application.SB.executor": "Run",
+    "Application.SeivePrime.executor": "Run",
+    "Application.SelectSort.executor": "Run",
+    "Application.SetBits.executor": "Run",
+    "Application.SmallestLetter.executor": "Run",
+    "Application.SplitArrSum.executor": "Run",
+    "Application.StrMethods.executor": "Run",
+    "Application.Stream.executor": "Run",
+    "Application.SubSeq.executor": "Run",
+    "Application.Sudoku.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.org.example.Main.executor": "Run",
+    "RunOnceActivity.CodyAccountHistoryMigration": "true",
+    "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
+    "RunOnceActivity.CodyHistoryLlmMigration": "true",
+    "RunOnceActivity.CodyProjectSettingsMigration": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "azul-17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lenibonje/Desktop/personal/java/JavaTute/JavaRecap/JavaRecap",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.principles.polymorphism" />
@@ -200,13 +212,6 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-92e50af3" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

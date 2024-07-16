@@ -288,3 +288,11 @@ h
 8generics/src/main/java/org/example/GenericInterface.java,d/6/d6b72761705368fcc787966d2eff0205ad363bfa
 j
 :generics/src/main/java/org/example/CustomGenArrayList.java,f/1/f1fcd8e7ef2f264b0c6d2a3905f487b89d76e78c
+_
+/linkedlists/src/main/java/org/example/Main.java,0/0/0087019acad32bc107c3fefb17cb589c00e949c7
+]
+-linkedlists/src/main/java/org/example/LL.java,f/1/f1e5b94cf90ffbb8c03eff8f296ef706616ce911
+^
+.linkedlists/src/main/java/org/example/DLL.java,e/0/e0b6d67ddf4cce6ef3d45e12a4c3028824ef1f94
+i
+9linkedlists/src/main/java/org/example/CycleQuestions.java,8/f/8fb25857b3f15311206c6ce4a721e89489b808d9
