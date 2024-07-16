@@ -14,7 +14,6 @@ public class InbuiltExamples {
         System.out.println(stack.pop());
         System.out.println(stack.pop());
         System.out.println(stack.pop());
-        System.out.println(stack.pop());
 
         Queue<Integer> queue = new LinkedList<>();
         queue.add(1);
