@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +105,7 @@
     "Application.Sudoku.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
+    "Application.TwoStacks.executor": "Run",
     "Application.org.example.Main.executor": "Run",
     "RunOnceActivity.CodyAccountHistoryMigration": "true",
     "RunOnceActivity.CodyConvertUrlToCodebaseName": "true",
@@ -139,7 +139,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueMain">
+  <component name="RunManager" selected="Application.TwoStacks">
     <configuration name="InbuiltExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InbuiltExamples" />
       <module name="stacksnqueues" />
@@ -174,26 +174,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="linkedlists" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="TwoStacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoStacks" />
+      <module name="stacksnqueues" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoStacks" />
         <item itemvalue="Application.QueueMain" />
         <item itemvalue="Application.StackMain" />
         <item itemvalue="Application.InbuiltExamples" />
         <item itemvalue="Application.LL" />
-        <item itemvalue="Application.org.example.Main" />
       </list>
     </recent_temporary>
   </component>
