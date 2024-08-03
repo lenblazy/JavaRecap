@@ -33,6 +33,7 @@
         <module>enumsexample</module>
         <module>linkedlists</module>
         <module>binarytrees</module>
+        <module>filehandling</module>
     </modules>
 
     <properties>
