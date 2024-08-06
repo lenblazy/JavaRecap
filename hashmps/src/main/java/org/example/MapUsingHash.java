@@ -28,7 +28,7 @@ public class MapUsingHash {
         }
     }
 
-    class Entity {
+    private class Entity {
         String key;
         Object value;
 
