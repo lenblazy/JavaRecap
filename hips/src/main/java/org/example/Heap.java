@@ -6,7 +6,7 @@ public class Heap<T extends  Comparable<T>> {
 
     public static void main(String[] args) {
         try{
-            Heap<Integer> heap = new Heap();
+            Heap<Integer> heap = new Heap<>();
             heap.insert(19);
             heap.insert(13);
             heap.insert(15);
