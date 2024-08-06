@@ -35,6 +35,7 @@
         <module>binarytrees</module>
         <module>filehandling</module>
         <module>hips</module>
+        <module>hashmps</module>
     </modules>
 
     <properties>
