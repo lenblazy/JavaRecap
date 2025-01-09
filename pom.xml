@@ -36,6 +36,7 @@
         <module>filehandling</module>
         <module>hips</module>
         <module>hashmps</module>
+        <module>ArrayQuiz</module>
     </modules>
 
     <properties>
