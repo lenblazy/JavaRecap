@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayQuiz/src/main/java/org/example/TwoDimensArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayQuiz/src/main/java/org/example/TwoDimensArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/ceiling/CeilingQn.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/ceiling/CeilingQn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/InfiniteArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/InfiniteArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/SmallestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/binarysearch/src/main/java/org/example/SmallestLetter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +68,7 @@
     "Application.GCD_LCM.executor": "Run",
     "Application.Heap.executor": "Run",
     "Application.InbuiltExamples.executor": "Run",
+    "Application.InfiniteArray.executor": "Debug",
     "Application.InsertSort.executor": "Run",
     "Application.IsOdd.executor": "Debug",
     "Application.LL.executor": "Run",
@@ -109,6 +110,7 @@
     "Application.SetBits.executor": "Run",
     "Application.SmallestLetter.executor": "Run",
     "Application.SplitArrSum.executor": "Run",
+    "Application.SquareRoot.executor": "Debug",
     "Application.StackMain.executor": "Run",
     "Application.StrMethods.executor": "Run",
     "Application.Stream.executor": "Run",
@@ -159,7 +161,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CeilingQn">
+  <component name="RunManager" selected="Application.SquareRoot">
     <configuration name="BS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.bs.BS" />
       <module name="binarysearch" />
@@ -199,9 +201,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeivePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SeivePrime" />
-      <module name="mathdsa" />
+    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.InfiniteArray" />
+      <module name="binarysearch" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -212,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.TwoDimensArrays" />
-      <module name="ArrayQuiz" />
+    <configuration name="SquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.sqrt.SquareRoot" />
+      <module name="binarysearch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.sqrt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SquareRoot" />
+        <item itemvalue="Application.InfiniteArray" />
         <item itemvalue="Application.CeilingQn" />
         <item itemvalue="Application.BS" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.TwoDimensArrays" />
-        <item itemvalue="Application.SeivePrime" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +280,39 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/binarysearch/src/main/java/org/example/InfiniteArray.java</url>
+          <line>28</line>
+          <properties class="org.example.InfiniteArray" method="binarySearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/binarysearch/src/main/java/org/example/InfiniteArray.java</url>
+          <line>11</line>
+          <properties class="org.example.InfiniteArray" method="ans">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/binarysearch/src/main/java/org/example/sqrt/SquareRoot.java</url>
+          <line>9</line>
+          <properties class="org.example.sqrt.SquareRoot" method="mySqrt">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaRecap$SquareRoot.ic" NAME="SquareRoot Coverage Results" MODIFIED="1739783485885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>org.example.sqrt.*</FILTER>
+    </SUITE>
   </component>
 </project>

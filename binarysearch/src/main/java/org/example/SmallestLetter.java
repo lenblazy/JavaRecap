@@ -63,9 +63,6 @@ public class SmallestLetter {
         }
 
         int idx = start % arr.length;
-        System.out.println("START is "+ start);
-        System.out.println("Arr len is "+ arr.length);
-        System.out.println("Array contains "+ Arrays.toString(arr));
 
         return arr[idx] ;
 
