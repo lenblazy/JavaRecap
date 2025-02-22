@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1139fe99-5ce3-4e22-ad03-e2ccd1b92ace" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic/CyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic/CyclicSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +161,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyCyclicSort">
+  <component name="RunManager" selected="Application.CyclicSort">
     <configuration name="CountNegatives2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CountNegatives2D" />
       <module name="binarysearch" />
@@ -174,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InfiniteArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.InfiniteArray" />
-      <module name="binarysearch" />
+    <configuration name="CyclicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.cyclic.CyclicSort" />
+      <module name="sorting" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.example.cyclic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclicSort" />
         <item itemvalue="Application.MyCyclicSort" />
         <item itemvalue="Application.CountNegatives2D" />
         <item itemvalue="Application.TwoSumBinarySearch" />
         <item itemvalue="Application.SquareRoot" />
-        <item itemvalue="Application.InfiniteArray" />
       </list>
     </recent_temporary>
   </component>
@@ -261,15 +262,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/sorting/src/main/java/org/example/cyclic/MissingNumber.java</url>
-          <line>29</line>
-          <properties class="org.example.cyclic.MissingNumber" method="missingNumber">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/binarysearch/src/main/java/org/example/bs/BS.java</url>
           <line>14</line>
